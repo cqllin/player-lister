@@ -88,7 +88,7 @@ For simplicity, let's say your IP is 0.0.0.0:30120. Your URL would be:
 **Response:**
 ```json
 {
-    "players": [
+    "player": [
         {
             "name": "John Doe",
             "id": "1",
