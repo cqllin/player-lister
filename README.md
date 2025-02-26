@@ -63,7 +63,7 @@ For simplicity, let's say your IP is 0.0.0.0:30120. Your URL would be:
                 "license2": "1234"
             }
         },
-                {
+        {
             "name": "Frankie",
             "id": "2",
             "ping": 32,
